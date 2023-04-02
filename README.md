@@ -30,7 +30,7 @@ To start the server to use the tool, run the following command:
 node index.js
 ```
 
-[Demo Video Click Here](https://drive.google.com/file/d/1Hb4dBtZTJjAQjMcwcInohnYQkiWzdnNh/view?usp=sharing)
+[Demo Video Click Here](https://drive.google.com/file/d/1Hb4dBtZTJjAQjMcwcInohnYQkiWzdnNh/view)
 
 ## License
 
